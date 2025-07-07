@@ -139,7 +139,7 @@
 
   <!-- 🔊 Move audio ABOVE scripts -->
   <audio id="bgmusic" preload="auto">
-    <source src="https://res.cloudinary.com/dinmxxrbw/video/upload/v1751914748/Tu_Hi_Haqeeqat___Tum_Mile___Emraan_Hashmi__Soha_Ali_Khan___Pritam___Javed_Ali__Shadab_256k_ioakqt.mp3" type="audio/mpeg">
+    <source src="https://res.cloudinary.com/dxjkbpmgm/video/upload/v1751919519/Tu_Humsafar_Tu_Humkadam_Tu...._shorts__reels_360p_1_hj5w5a.mp3" type="audio/mpeg">
   </audio>
 
   <div id="popup">Jaan ❤️ maaf kar do please 😢</div>
